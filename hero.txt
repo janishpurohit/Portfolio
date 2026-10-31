@@ -1,0 +1,4 @@
+"hi my name is peter parker
+WITH GREAT POWER COMES GREAT RESPONSIBILITY"
+
+print("hi")"
